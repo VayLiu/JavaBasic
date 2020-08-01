@@ -39,7 +39,7 @@ return：两个作用，第一停止当前党发，第二将后面的返回值�
 2.打印调用：System.out.println(方法名称(参数))
 3.赋值调用：
  */
-public class Demo02Method {
+public class Demo02MethodDefine {
 
     public static void main(String[] args) {
         //单独调用
