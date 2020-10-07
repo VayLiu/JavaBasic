@@ -10,7 +10,7 @@ class C {}
 class D extends A,C {}  //错误
 
 2. Java 语言可以**多级继承**。
-我有一个弗兰奇，我父亲还有一个父亲，也就是爷爷。
+我有一个父亲，我父亲还有一个父亲，也就是爷爷。
 
 class A{}
 class B extends A{} //正确
